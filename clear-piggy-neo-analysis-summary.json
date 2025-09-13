@@ -1,0 +1,86 @@
+{
+  "timestamp": "2025-09-13T14:37:27.691Z",
+  "projectPath": "/Users/TREM/Downloads/clear-piggy-neo-main",
+  "componentAnalysis": {
+    "mainComponents": [
+      "AIInsightsDashboard.tsx",
+      "AIInsightsPreview.tsx",
+      "AccountBalanceSummary.tsx",
+      "Auth.tsx",
+      "BudgetProgressCards.tsx",
+      "CashFlowChart.tsx",
+      "Dashboard.tsx",
+      "MobileDashboard.tsx",
+      "Onboarding.tsx",
+      "PlaidLink.tsx",
+      "QuickActionsRow.tsx",
+      "QuickStatusBar.tsx",
+      "ReceiptPreview.tsx",
+      "ReceiptUpload.tsx",
+      "RecentTransactionsList.tsx",
+      "ResponsiveDashboard.tsx",
+      "SmartReceiptTable.tsx",
+      "SpendingCategoriesPreview.tsx",
+      "TransactionMatchCard.tsx",
+      "TransactionPreview.tsx"
+    ],
+    "mobileComponents": [
+      "DashboardDemo.tsx",
+      "MobileDashboard.tsx"
+    ],
+    "mobileUIComponents": [
+      "AIInsightsPreview.tsx",
+      "AccountBalanceSummary.tsx",
+      "BudgetProgressCards.tsx",
+      "QuickActionsRow.tsx",
+      "QuickStatusBar.tsx",
+      "RecentTransactionsList.tsx",
+      "SpendingCategoriesPreview.tsx"
+    ],
+    "matchingComponents": [
+      "AIInsightsPreview.tsx",
+      "AccountBalanceSummary.tsx",
+      "BudgetProgressCards.tsx",
+      "Dashboard.tsx",
+      "MobileDashboard.tsx",
+      "QuickActionsRow.tsx",
+      "QuickStatusBar.tsx",
+      "RecentTransactionsList.tsx",
+      "SpendingCategoriesPreview.tsx"
+    ]
+  },
+  "financialComponents": [
+    "AIInsightsDashboard.tsx",
+    "AIInsightsPreview.tsx",
+    "AccountBalanceSummary.tsx",
+    "BudgetProgressCards.tsx",
+    "CashFlowChart.tsx",
+    "Dashboard.tsx",
+    "MobileDashboard.tsx",
+    "PlaidLink.tsx",
+    "ReceiptPreview.tsx",
+    "ReceiptUpload.tsx",
+    "RecentTransactionsList.tsx",
+    "ResponsiveDashboard.tsx",
+    "SmartReceiptTable.tsx",
+    "SpendingCategoriesPreview.tsx",
+    "TransactionMatchCard.tsx",
+    "TransactionPreview.tsx",
+    "DashboardDemo.tsx",
+    "MobileDashboard.tsx",
+    "AIInsightsPreview.tsx",
+    "AccountBalanceSummary.tsx",
+    "BudgetProgressCards.tsx",
+    "RecentTransactionsList.tsx",
+    "SpendingCategoriesPreview.tsx"
+  ],
+  "dependencies": {
+    "react": "^19.1.1",
+    "typescript": "^4.9.5",
+    "tailwindcss": "^3.4.17",
+    "framer-motion": "^12.23.12",
+    "@supabase/supabase-js": "^2.57.0",
+    "react-plaid-link": "^4.1.1"
+  },
+  "totalComponents": 29
+}
